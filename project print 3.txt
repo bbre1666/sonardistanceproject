@@ -1,0 +1,5 @@
+Plotted to 'C:\Users\Baden Brenner\OneDrive\Documents\KiCad\3 stage amplifire\sem 2 project\sem 2 project.plt'.
+Plotted to 'C:\Users\Baden Brenner\OneDrive\Documents\KiCad\3 stage amplifire\sem 2 project\sem 2 project.pdf'.
+
+Info: Done.
+Info: Done.
